@@ -81,8 +81,13 @@ One file. No loops, no functions, no `switch`, no `if` nested inside an `if`. No
 - Discussions (every week): first post Friday, replies Sunday
 - Late: course policy (−10%/day unless stated otherwise)
 
-## Rubric
-Graded on: it runs, it meets the prompt, every input lands in exactly one branch, the decision table matches the program, and the GitHub repo plus demo video are there.
+## Rubric (100)
+
+| Criterion | Pts |
+|-----------|----:|
+| Code submitted that does the work | 50 |
+| Video explanation | 50 |
+
 
 ## Getting started
 
